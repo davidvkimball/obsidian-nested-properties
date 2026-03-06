@@ -62,9 +62,9 @@ window.DEBUG.enable('nested-properties');
 
 For more details, refer to the [documentation](https://github.com/mnaoumov/obsidian-dev-utils/blob/main/docs/debugging.md).
 
-## My other Obsidian plugins
+## My other Obsidian resources
 
-[See my other Obsidian plugins](https://github.com/mnaoumov/obsidian-resources).
+[See my other Obsidian resources](https://github.com/mnaoumov/obsidian-resources).
 
 ## License
 
